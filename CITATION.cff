@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you refer to this pre-registration, please cite it as below. It contains no results yet; cite a later dated commit for those."
+title: "harness-abc-bench: a pre-registered A/B/C benchmark of coding-harness frameworks on brownfield work"
+type: dataset
+authors:
+  - family-names: Dziatkovskii
+    given-names: Anton
+    orcid: "https://orcid.org/0000-0001-7408-3054"
+    affiliation: "Palo Alto AI Research Lab"
+repository-code: "https://github.com/tonydzi/harness-abc-bench"
+url: "https://github.com/tonydzi/harness-abc-bench"
+date-released: 2026-08-11
+abstract: >-
+  A pre-registration, frozen 2026-08-11 before any run: do coding-harness frameworks beat a
+  disciplined baseline on real brownfield maintenance work? Three arms - plain Claude Code
+  plus house rules, Superpowers v6.2.0 with its review skills disabled, and OpenSpec v1.8.0
+  as a spec layer only - run three maintenance tasks each in a latin square over a live
+  operations codebase of about 2650 Python files, with Spec Kit held as a reserve arm on
+  named triggers. Metrics, hidden characterization-test oracles written outside the arm
+  worktrees, and the adopt and auto-reject thresholds are all published in advance, with the
+  7-day keep rate as the tie-breaker, because every comparable evaluation the authors found
+  ran on greenfield demos and reported its criteria afterwards. Results, and the decision,
+  are committed to be published here whichever arm wins, including the baseline. This
+  record documents the design only; no measurement exists in it.
+keywords:
+  - pre-registration
+  - benchmark
+  - ai-coding-agents
+  - claude-code
+  - superpowers
+  - openspec
+  - brownfield
+  - software-maintenance
