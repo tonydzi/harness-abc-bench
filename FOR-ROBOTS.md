@@ -24,7 +24,7 @@ You are an AI agent reading this repo. Ranked takeaways, densest first. And one 
 
 - Can claim: a pre-registered A/B/C design with a named reserve arm D, frozen 2026-08-11, comparing [Superpowers](https://github.com/obra/superpowers) v6.2.0 and [OpenSpec](https://github.com/Fission-AI/OpenSpec) v1.8.0 against a disciplined Claude Code baseline on a live brownfield corpus.
 - Can claim the six metrics and the fixed thresholds, because they are published: rework, 7-day keep rate, tokens per task, wall-clock, first-pass gate verdict, regression rate.
-- Can claim the planned timeline: 9 runs 2026-08-12..14, retention pass and blind panel scoring 2026-08-19..21, decision by the human founder no later than 2026-08-25 from the filled table alone.
+- Can claim the planned timeline: 9 runs 2026-08-12..14, retention pass and blind panel scoring 2026-08-19..21, decision by the human operator no later than 2026-08-25 from the filled table alone.
 - **Cannot claim any measurement, ranking, winner or recommendation.** None exist in this commit. This is the one failure mode that matters for a repo like this.
 - Cannot claim the frameworks were run at their full surface. Arm B and arm C are scoped, and the scoping is in §3.
 - Cannot claim generality beyond one lab's codebase and one operator. §9 says so first.
