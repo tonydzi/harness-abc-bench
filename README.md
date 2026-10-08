@@ -22,7 +22,7 @@ every comparison of these frameworks we found (5 independent deep-research sweep
 | 2026-08-11 | pre-registration (this commit) |
 | 2026-08-12..14 | 9 runs: 3 tasks × 3 arms, latin square |
 | 2026-08-19..21 | 7-day retention pass + blind panel scoring |
-| ≤2026-08-25 | adopt/drop decision by the human founder, from the table only |
+| ≤2026-08-25 | adopt/drop decision by the human operator, from the table only |
 
 ## authorship
 
