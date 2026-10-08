@@ -51,7 +51,7 @@ scoring of code quality is done by a multi-vendor panel **blind to arm names**.
 
 - **adopt**: arm beats baseline on ≥2 of metrics 1–5 and does not lose on tokens by more than ×1.5
 - **auto-reject**: total cost >×2 baseline without a correctness win on hidden tests
-- ties resolve by keep rate. decision is made by the human founder from the filled table only.
+- ties resolve by keep rate. decision is made by the human operator from the filled table only.
 
 ## 8. reserve arm D — Spec Kit
 
